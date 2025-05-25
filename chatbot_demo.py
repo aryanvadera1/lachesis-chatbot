@@ -12,7 +12,7 @@ QA_PAIRS = {
   "how many hours of sleep do seniors need": "Using motion sensors and heart rate variability, Lachesis tracks sleep stages, interruptions, and overall sleep quality.",
   "how accurate is lachesis in detecting falls": "Lachesis is designed to assist elderly individuals with health monitoring through advanced sensors and AI-powered analysis. It helps track vitals and improve overall well-being.",
   "can lachesis send alerts to caregivers": "Lachesis is designed to assist elderly individuals with health monitoring through advanced sensors and AI-powered analysis. It helps track vitals and improve overall well-being.",
-  "how often should seniors check their blood pressure": "This information is tracked and managed by Lachesis to provide personalized health insights for elderly users.",
+  "how often should seniors check their blood pressure": "Elderly individuals should check their blood pressure at least once daily, especially if they have a history of heart conditions. Those on medication or with irregular rhythms may benefit from continuous or twice-daily monitoring using wearables like Lachesis.",
   "how does dehydration affect older adults": "Lachesis estimates hydration levels by monitoring body temperature, motion, and daily patterns to ensure elderly users stay well-hydrated.",
   "what causes low heart rate in seniors": "Lachesis monitors heart rate continuously and provides alerts if the rate exceeds or drops below healthy thresholds.",
   "how can seniors stay hydrated": "This information is tracked and managed by Lachesis to provide personalized health insights for elderly users.",
